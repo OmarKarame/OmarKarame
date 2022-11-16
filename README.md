@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Omar, a London based software developer and technology consultant who is driven to learn and develop new skills, languages and frameworks. I am passionate about creating stylish web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of other fields of coding such as machine learning and cloud computing. 💻
+
+Some of the languages and frameworks i am proficient in and know are:
+
+- HTML
+- CSS/SCSS
+- JavaScript
+- React JS
+- Java
+- Spring
+- SQL
+- Python
+
+In addition to coding, I normally spend my time travelling, playing sports, creating art, and going out with friends. 
+
+
