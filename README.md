@@ -29,6 +29,4 @@ Some of the languages and frameworks i am proficient in are:
 - SQL
 - Python
 
-In addition to coding, I normally spend my time travelling, playing sports, creating art, and going out with friends. 
-
 
