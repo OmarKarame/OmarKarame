@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 I’m Omar, a London based software developer and technology consultant who is driven to learn and develop new skills, languages and frameworks. I am passionate about creating stylish web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of other fields of coding such as machine learning and cloud computing. 💻
 
-Some of the languages and frameworks i am proficient in and know are:
+Some of the languages and frameworks i am proficient in are:
 
-- HTML
-- CSS/SCSS
+- Python
+- TensorFlow
+- Scikit-learn
 - JavaScript
 - React JS
 - Java
