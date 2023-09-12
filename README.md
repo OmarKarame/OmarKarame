@@ -27,6 +27,5 @@ Some of the languages and frameworks i am proficient in are:
 - Java
 - Spring
 - SQL
-- Python
 
 
