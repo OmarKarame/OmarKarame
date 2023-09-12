@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Omar, a London based software developer and technology consultant who is driven to learn and develop new skills, languages and frameworks. I am passionate about creating stylish web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of other fields of coding such as machine learning and cloud computing. 💻
+I’m Omar, a London based data scientist and technology consultant who is driven to learn and develop new skills, languages and frameworks. I am passionate about analyzing data and building approprite machine learning and deep learning models to get the most insight out of the data. I also enjoy creating stylish web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of other fields of coding such as data engineering and cloud computing. 💻
 
 Some of the languages and frameworks i am proficient in are:
 
@@ -27,5 +27,6 @@ Some of the languages and frameworks i am proficient in are:
 - Java
 - Spring
 - SQL
+- Docker
 
 
