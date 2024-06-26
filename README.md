@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Karame</h1>
 <h3 align="center">A passionate data scientist and full-stack developer</h3>
 
-- 🔭 I’m currently working on [Commit to Excellence](https://github.com/OmarKarame/Commit-To-Excellence-Backend)
+- 🔭 I’m currently working on BikePoint - An app that optimizes Santander Bike users' experience.
 
 - 👨‍💻 Some of my projects are available at [https://omarkarame.com](https://omarkarame.com)
 
